@@ -8,3 +8,5 @@ stage_arc.spk - Mouse stage for head-restrained behavior; half-tube design. Cred
 stage_rect.spk - Mouse stage for head-restrained behavior; rectangular design. Credit: Panna Hegedus
 
 sound_attenuated_box - Sound attenuated enclosure for behavior experiments. Credit: Katalin Sviatko
+
+BehaviorBoxAttenuationTest.pptx - Sound attenuation test for 3 versions of isolation material. Credit: Nicola Solari
