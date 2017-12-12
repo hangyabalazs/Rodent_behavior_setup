@@ -12,3 +12,5 @@ sound_attenuated_box - Sound attenuated enclosure for behavior experiments. Cred
 BehaviorBoxAttenuationTest.pptx - Sound attenuation test for 3 versions of isolation material. Credit: Nicola Solari
 
 Sound calibration - Bpod compatible Matlab code for calibrating sound pressure levels for pure tones and white noise for behavior. Credit: Nicola Solari
+
+Sound_attenuation_BOM.docx - Bill of material for sound attenuation configurations. Credit: Nicola Solari
